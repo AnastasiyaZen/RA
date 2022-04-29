@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/u1p7yv8selfqpemp?svg=true)](https://ci.appveyor.com/project/Anastasiya/apirest)
